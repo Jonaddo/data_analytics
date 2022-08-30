@@ -70,7 +70,7 @@ class NormPlot:
                 plot_deriv(x, deriv, n)
         plt.plot(self.norm_x, self.norm_y)
         plot_deriv(self.norm_x, self.norm_y, n)
-        plt.title(f'N({self.mu}, {self.sigma}) and first {n} derivatives')
+        plt.title(f'N({self.mu}, {self.sigma}) and first {n+1} derivatives')
         plt.savefig('normal_deriv.png', dpi=300, facecolor='lightgrey')
         plt.show()
 
