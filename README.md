@@ -12,4 +12,5 @@ As we say: "a picture is worth a thousand words".
   
   
   
-![normal_deriv](https://user-images.githubusercontent.com/36447056/176649548-f06b08e9-7c0b-4e2a-88b9-76d0297d9d46.png)
+![image](https://user-images.githubusercontent.com/36447056/187367970-213ef376-e55a-415d-87c0-e180ce8717ac.png)
+
